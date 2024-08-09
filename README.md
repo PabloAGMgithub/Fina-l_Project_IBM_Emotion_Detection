@@ -10,7 +10,7 @@ Project Tasks
 To successfully complete this project, you will need to perform the following tasks:
 
 Task 1: Clone the Project Repository
-Start by cloning the project repository to your local environment. This will provide you with the necessary code and resources to begin your work. this is the original project link: https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai.git but I have cloned it on my local machine 
+Start by cloning the project repository to your local environment. This will provide you with the necessary code and resources to begin your work. this is the original project link: https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai.git but I have cloned it on my local machine https://github.com/PabloAGMgithub/oaqjp-final-project-emb-ai
 and pushed it again on new repo for a purpose of using it in the Cloud IDE this the link: 
 
 Task 2: Create an Emotion Detection Application
